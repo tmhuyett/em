@@ -1,7 +1,7 @@
 ---
 title: Hello World
-price: "1.02"
-id: "14"
+data-item-price: "1.02"
+data-item-id: "14"
 date: "2015-05-01T22:12:03.284Z"
 description: "Hello World"
 ---

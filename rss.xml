@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Emily's Forest Gifts]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://tmhuyett.github.io/em</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 14 Oct 2020 21:44:49 GMT</lastBuildDate><item><title><![CDATA[Chimes]]></title><link>https://tmhuyett.github.io/em/new-beginnings/</link><guid isPermaLink="false">https://tmhuyett.github.io/em/new-beginnings/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Hello World]]></title><link>https://tmhuyett.github.io/em/hello-world/</link><guid isPermaLink="false">https://tmhuyett.github.io/em/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;section&gt;
+  &lt;p className=&quot;price&quot;&gt;$1.02&lt;/p&gt;
+  &lt;p&gt;Just buy the damn thing.&lt;/p&gt;
+  &lt;button
+    class=&quot;snipcart-add-item&quot;
+    data-item-id=&quot;14&quot;
+    data-item-price=&quot;1.02&quot;
+    data-item-url=&quot;https://tmhuyett.github.io/em/hello-world/&quot;
+    data-item-name=&quot;Antique Coke&quot;&gt;
+    
+    Add to cart
+  &lt;/button&gt;
+&lt;/section&gt;</content:encoded></item><item><title><![CDATA[Antique Coke Machine]]></title><link>https://tmhuyett.github.io/em/Antique Coke Machine/coke-machine/</link><guid isPermaLink="false">https://tmhuyett.github.io/em/Antique Coke Machine/coke-machine/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;section&gt;
+  &lt;p className=&quot;price&quot;&gt;$1.01&lt;/p&gt;
+  &lt;p&gt;Just buy the damn thing.&lt;/p&gt;
+  &lt;button
+    class=&quot;snipcart-add-item&quot;
+    data-item-id=&quot;14&quot;
+    data-item-price=&quot;1.01&quot;
+    data-item-url=&quot;/&quot;
+    data-item-name=&quot;Antique Coke Machine&quot;&gt;
+    
+    Add to cart
+  &lt;/button&gt;
+&lt;/section&gt;</content:encoded></item></channel></rss>

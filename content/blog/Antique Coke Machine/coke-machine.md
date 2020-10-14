@@ -2,7 +2,7 @@
 title: Antique Coke Machine
 price: "1.01"
 id: "14"
-path: /coke-machine/
+path: "/"
 date: "2015-05-01T22:12:03.284Z"
 description: "Just buy the damn thing."
 ---

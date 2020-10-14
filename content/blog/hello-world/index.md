@@ -13,7 +13,7 @@ description: "Hello World"
     class="snipcart-add-item"
     data-item-id="14"
     data-item-price="1.02"
-    data-item-url="/"
+    data-item-url="/em/hello-world/"
     data-item-name="Antique Coke">
     
     Add to cart

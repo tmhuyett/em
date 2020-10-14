@@ -7,13 +7,19 @@ module.exports = {
       summary: `who lives in Winchester, VA.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteUrl: `https://tmhuyett.github.io/em/`,
     social: {
       twitter: `NA`,
     },
   },
 
   plugins: [
+    {
+			resolve: 'gatsby-plugin-snipcartv3',
+			options: {
+				apiKey: 'MjQyZGJhZWItNWZhMi00Njc3LWI2MGYtYWFmYjgwMDhlZmU3NjM3Mzc2MTU4MjUxNTM1Mzg3'
+			},
+		},
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -71,6 +77,9 @@ module.exports = {
         icon: `content/assets/gatsby-icon.png`,
       },
     },
+    
+      
+    
     `gatsby-plugin-react-helmet`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline

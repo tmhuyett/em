@@ -199,6 +199,10 @@ li > ul {
   margin-top: calc(var(--spacing-8) / 2);
 }
 
+#price {
+  font-size: 100px;
+}
+
 blockquote {
   color: var(--color-text-light);
   margin-left: calc(-1 * var(--spacing-6));
